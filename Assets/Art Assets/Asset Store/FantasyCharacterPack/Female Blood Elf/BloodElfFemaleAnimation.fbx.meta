@@ -148,6 +148,7 @@ ModelImporter:
     4300044: singleArrow
     7400000: run
     7400002: idle
+    7400004: jump
     9500000: //RootNode
     13700000: ArmRingLeft
     13700002: ArmRingRight
@@ -345,6 +346,152 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BloodElfFemale
+        weight: 0
+      - path: BloodElfFemale/ArmRingLeft
+        weight: 0
+      - path: BloodElfFemale/ArmRingRight
+        weight: 0
+      - path: BloodElfFemale/Bow
+        weight: 0
+      - path: BloodElfFemale/BraHolder
+        weight: 0
+      - path: BloodElfFemale/BraLeft
+        weight: 0
+      - path: BloodElfFemale/BraRight
+        weight: 0
+      - path: BloodElfFemale/gauntletsLeft
+        weight: 0
+      - path: BloodElfFemale/gauntletsRight
+        weight: 0
+      - path: BloodElfFemale/hair
+        weight: 0
+      - path: BloodElfFemale/HandLeft
+        weight: 0
+      - path: BloodElfFemale/HandRight
+        weight: 0
+      - path: BloodElfFemale/Head
+        weight: 0
+      - path: BloodElfFemale/mainBody
+        weight: 0
+      - path: BloodElfFemale/PelvisArmorFront
+        weight: 0
+      - path: BloodElfFemale/PelvisArmorLeft
+        weight: 0
+      - path: BloodElfFemale/PelvisArmorRight
+        weight: 0
+      - path: BloodElfFemale/quiver
+        weight: 0
+      - path: BloodElfFemale/quiverBelt
+        weight: 0
+      - path: BloodElfFemale/Robe
+        weight: 0
+      - path: BloodElfFemale/RobeFront
+        weight: 0
+      - path: BloodElfFemale/shoesLeft
+        weight: 0
+      - path: BloodElfFemale/shoesRight
+        weight: 0
+      - path: pivot
+        weight: 1
+      - path: pivot/body
+        weight: 1
+      - path: pivot/body/joint3
+        weight: 1
+      - path: pivot/body/joint3/chest
+        weight: 1
+      - path: pivot/body/joint3/chest/armLeft
+        weight: 1
+      - path: pivot/body/joint3/chest/armLeft/frontArmLeft
+        weight: 1
+      - path: pivot/body/joint3/chest/armLeft/frontArmLeft/handLeft
+        weight: 1
+      - path: pivot/body/joint3/chest/armLeft/frontArmLeft/handLeft/fingerLeft
+        weight: 0
+      - path: pivot/body/joint3/chest/armLeft/frontArmLeft/handLeft/fingerLeft/joint22
+        weight: 0
+      - path: pivot/body/joint3/chest/armLeft/frontArmLeft/handLeft/joint23
+        weight: 0
+      - path: pivot/body/joint3/chest/armLeft/frontArmLeft/handLeft/joint23/joint24
+        weight: 0
+      - path: pivot/body/joint3/chest/ArmRight
+        weight: 1
+      - path: pivot/body/joint3/chest/ArmRight/FrontArmRight
+        weight: 1
+      - path: pivot/body/joint3/chest/ArmRight/FrontArmRight/handRight
+        weight: 1
+      - path: pivot/body/joint3/chest/ArmRight/FrontArmRight/handRight/fingerRight
+        weight: 0
+      - path: pivot/body/joint3/chest/ArmRight/FrontArmRight/handRight/fingerRight/joint29
+        weight: 0
+      - path: pivot/body/joint3/chest/ArmRight/FrontArmRight/handRight/joint30
+        weight: 0
+      - path: pivot/body/joint3/chest/ArmRight/FrontArmRight/handRight/joint30/joint31
+        weight: 0
+      - path: pivot/body/joint3/chest/arrowBone
+        weight: 0
+      - path: pivot/body/joint3/chest/arrowBone/joint35
+        weight: 0
+      - path: pivot/body/joint3/chest/neck
+        weight: 1
+      - path: pivot/body/joint3/chest/neck/joint6
+        weight: 1
+      - path: pivot/body/joint3/chest/neck/joint6/joint7
+        weight: 0
+      - path: pivot/body/legTopL
+        weight: 1
+      - path: pivot/body/legTopL/legBotL
+        weight: 1
+      - path: pivot/body/legTopL/legBotL/footTopL
+        weight: 1
+      - path: pivot/body/legTopL/legBotL/footTopL/footBotL
+        weight: 0
+      - path: pivot/body/legTopL/legBotL/footTopL/footBotL/joint12
+        weight: 0
+      - path: pivot/body/legTopR
+        weight: 1
+      - path: pivot/body/legTopR/legBotR
+        weight: 1
+      - path: pivot/body/legTopR/legBotR/footTopR
+        weight: 1
+      - path: pivot/body/legTopR/legBotR/footTopR/footBotR
+        weight: 0
+      - path: pivot/body/legTopR/legBotR/footTopR/footBotR/joint17
+        weight: 0
+      - path: pivot/body/robePartBone
+        weight: 0
+      - path: pivot/body/robePartBone/joint33
+        weight: 0
+      - path: singleArrow
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: jump
+      takeName: Take 001
+      firstFrame: 101
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0

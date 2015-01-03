@@ -102,7 +102,7 @@ GameObject:
   - 4: {fileID: 475972}
   - 95: {fileID: 9576078}
   m_Layer: 0
-  m_Name: BloodElfFemaleAnimation
+  m_Name: mecanim
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
