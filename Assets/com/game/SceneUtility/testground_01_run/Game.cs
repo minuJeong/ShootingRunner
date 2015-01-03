@@ -8,6 +8,10 @@ namespace testground_01_run
 
 		private GameObject _playerPawn = null;
 
+		void Awake () {
+			Physics.gravity = new Vector3 (0, -10, 0);
+		}
+
 		// Use this for initialization
 		void Start ()
 		{
