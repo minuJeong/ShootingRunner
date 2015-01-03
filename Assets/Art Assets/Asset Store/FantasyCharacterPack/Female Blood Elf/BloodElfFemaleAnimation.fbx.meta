@@ -1,0 +1,956 @@
+fileFormatVersion: 2
+guid: d198c59e714a5134c8c097662b32ad27
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: armLeft
+    100002: ArmRight
+    100004: ArmRingLeft
+    100006: ArmRingRight
+    100008: arrowBone
+    100010: BloodElfFemale
+    100012: //RootNode
+    100014: body
+    100016: Bow
+    100018: BraHolder
+    100020: BraLeft
+    100022: BraRight
+    100024: chest
+    100026: fingerLeft
+    100028: fingerRight
+    100030: footBotL
+    100032: footBotR
+    100034: footTopL
+    100036: footTopR
+    100038: frontArmLeft
+    100040: FrontArmRight
+    100042: gauntletsLeft
+    100044: gauntletsRight
+    100046: hair
+    100048: HandLeft
+    100050: handLeft
+    100052: HandRight
+    100054: handRight
+    100056: Head
+    100058: joint12
+    100060: joint17
+    100062: joint22
+    100064: joint23
+    100066: joint24
+    100068: joint29
+    100070: joint3
+    100072: joint30
+    100074: joint31
+    100076: joint33
+    100078: joint35
+    100080: joint6
+    100082: joint7
+    100084: legBotL
+    100086: legBotR
+    100088: legTopL
+    100090: legTopR
+    100092: mainBody
+    100094: neck
+    100096: PelvisArmorFront
+    100098: PelvisArmorLeft
+    100100: PelvisArmorRight
+    100102: pivot
+    100104: quiver
+    100106: quiverBelt
+    100108: Robe
+    100110: RobeFront
+    100112: robePartBone
+    100114: shoesLeft
+    100116: shoesRight
+    100118: singleArrow
+    400000: armLeft
+    400002: ArmRight
+    400004: ArmRingLeft
+    400006: ArmRingRight
+    400008: arrowBone
+    400010: BloodElfFemale
+    400012: //RootNode
+    400014: body
+    400016: Bow
+    400018: BraHolder
+    400020: BraLeft
+    400022: BraRight
+    400024: chest
+    400026: fingerLeft
+    400028: fingerRight
+    400030: footBotL
+    400032: footBotR
+    400034: footTopL
+    400036: footTopR
+    400038: frontArmLeft
+    400040: FrontArmRight
+    400042: gauntletsLeft
+    400044: gauntletsRight
+    400046: hair
+    400048: HandLeft
+    400050: handLeft
+    400052: HandRight
+    400054: handRight
+    400056: Head
+    400058: joint12
+    400060: joint17
+    400062: joint22
+    400064: joint23
+    400066: joint24
+    400068: joint29
+    400070: joint3
+    400072: joint30
+    400074: joint31
+    400076: joint33
+    400078: joint35
+    400080: joint6
+    400082: joint7
+    400084: legBotL
+    400086: legBotR
+    400088: legTopL
+    400090: legTopR
+    400092: mainBody
+    400094: neck
+    400096: PelvisArmorFront
+    400098: PelvisArmorLeft
+    400100: PelvisArmorRight
+    400102: pivot
+    400104: quiver
+    400106: quiverBelt
+    400108: Robe
+    400110: RobeFront
+    400112: robePartBone
+    400114: shoesLeft
+    400116: shoesRight
+    400118: singleArrow
+    4300000: mainBody
+    4300002: HandLeft
+    4300004: HandRight
+    4300006: hair
+    4300008: gauntletsRight
+    4300010: gauntletsLeft
+    4300012: ArmRingLeft
+    4300014: ArmRingRight
+    4300016: shoesRight
+    4300018: shoesLeft
+    4300020: quiverBelt
+    4300022: BraLeft
+    4300024: BraRight
+    4300026: BraHolder
+    4300028: PelvisArmorRight
+    4300030: PelvisArmorLeft
+    4300032: Robe
+    4300034: PelvisArmorFront
+    4300036: RobeFront
+    4300038: Bow
+    4300040: quiver
+    4300042: Head
+    4300044: singleArrow
+    7400000: run
+    7400002: idle
+    9500000: //RootNode
+    13700000: ArmRingLeft
+    13700002: ArmRingRight
+    13700004: Bow
+    13700006: BraHolder
+    13700008: BraLeft
+    13700010: BraRight
+    13700012: gauntletsLeft
+    13700014: gauntletsRight
+    13700016: hair
+    13700018: HandLeft
+    13700020: HandRight
+    13700022: Head
+    13700024: mainBody
+    13700026: PelvisArmorFront
+    13700028: PelvisArmorLeft
+    13700030: PelvisArmorRight
+    13700032: quiver
+    13700034: quiverBelt
+    13700036: Robe
+    13700038: RobeFront
+    13700040: shoesLeft
+    13700042: shoesRight
+    13700044: singleArrow
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BloodElfFemale
+        weight: 0
+      - path: BloodElfFemale/ArmRingLeft
+        weight: 0
+      - path: BloodElfFemale/ArmRingRight
+        weight: 0
+      - path: BloodElfFemale/Bow
+        weight: 0
+      - path: BloodElfFemale/BraHolder
+        weight: 0
+      - path: BloodElfFemale/BraLeft
+        weight: 0
+      - path: BloodElfFemale/BraRight
+        weight: 0
+      - path: BloodElfFemale/gauntletsLeft
+        weight: 0
+      - path: BloodElfFemale/gauntletsRight
+        weight: 0
+      - path: BloodElfFemale/hair
+        weight: 0
+      - path: BloodElfFemale/HandLeft
+        weight: 0
+      - path: BloodElfFemale/HandRight
+        weight: 0
+      - path: BloodElfFemale/Head
+        weight: 0
+      - path: BloodElfFemale/mainBody
+        weight: 0
+      - path: BloodElfFemale/PelvisArmorFront
+        weight: 0
+      - path: BloodElfFemale/PelvisArmorLeft
+        weight: 0
+      - path: BloodElfFemale/PelvisArmorRight
+        weight: 0
+      - path: BloodElfFemale/quiver
+        weight: 0
+      - path: BloodElfFemale/quiverBelt
+        weight: 0
+      - path: BloodElfFemale/Robe
+        weight: 0
+      - path: BloodElfFemale/RobeFront
+        weight: 0
+      - path: BloodElfFemale/shoesLeft
+        weight: 0
+      - path: BloodElfFemale/shoesRight
+        weight: 0
+      - path: pivot
+        weight: 1
+      - path: pivot/body
+        weight: 1
+      - path: pivot/body/joint3
+        weight: 1
+      - path: pivot/body/joint3/chest
+        weight: 1
+      - path: pivot/body/joint3/chest/armLeft
+        weight: 1
+      - path: pivot/body/joint3/chest/armLeft/frontArmLeft
+        weight: 1
+      - path: pivot/body/joint3/chest/armLeft/frontArmLeft/handLeft
+        weight: 1
+      - path: pivot/body/joint3/chest/armLeft/frontArmLeft/handLeft/fingerLeft
+        weight: 0
+      - path: pivot/body/joint3/chest/armLeft/frontArmLeft/handLeft/fingerLeft/joint22
+        weight: 0
+      - path: pivot/body/joint3/chest/armLeft/frontArmLeft/handLeft/joint23
+        weight: 0
+      - path: pivot/body/joint3/chest/armLeft/frontArmLeft/handLeft/joint23/joint24
+        weight: 0
+      - path: pivot/body/joint3/chest/ArmRight
+        weight: 1
+      - path: pivot/body/joint3/chest/ArmRight/FrontArmRight
+        weight: 1
+      - path: pivot/body/joint3/chest/ArmRight/FrontArmRight/handRight
+        weight: 1
+      - path: pivot/body/joint3/chest/ArmRight/FrontArmRight/handRight/fingerRight
+        weight: 0
+      - path: pivot/body/joint3/chest/ArmRight/FrontArmRight/handRight/fingerRight/joint29
+        weight: 0
+      - path: pivot/body/joint3/chest/ArmRight/FrontArmRight/handRight/joint30
+        weight: 0
+      - path: pivot/body/joint3/chest/ArmRight/FrontArmRight/handRight/joint30/joint31
+        weight: 0
+      - path: pivot/body/joint3/chest/arrowBone
+        weight: 0
+      - path: pivot/body/joint3/chest/arrowBone/joint35
+        weight: 0
+      - path: pivot/body/joint3/chest/neck
+        weight: 1
+      - path: pivot/body/joint3/chest/neck/joint6
+        weight: 1
+      - path: pivot/body/joint3/chest/neck/joint6/joint7
+        weight: 0
+      - path: pivot/body/legTopL
+        weight: 1
+      - path: pivot/body/legTopL/legBotL
+        weight: 1
+      - path: pivot/body/legTopL/legBotL/footTopL
+        weight: 1
+      - path: pivot/body/legTopL/legBotL/footTopL/footBotL
+        weight: 0
+      - path: pivot/body/legTopL/legBotL/footTopL/footBotL/joint12
+        weight: 0
+      - path: pivot/body/legTopR
+        weight: 1
+      - path: pivot/body/legTopR/legBotR
+        weight: 1
+      - path: pivot/body/legTopR/legBotR/footTopR
+        weight: 1
+      - path: pivot/body/legTopR/legBotR/footTopR/footBotR
+        weight: 0
+      - path: pivot/body/legTopR/legBotR/footTopR/footBotR/joint17
+        weight: 0
+      - path: pivot/body/robePartBone
+        weight: 0
+      - path: pivot/body/robePartBone/joint33
+        weight: 0
+      - path: singleArrow
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 61
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BloodElfFemale
+        weight: 0
+      - path: BloodElfFemale/ArmRingLeft
+        weight: 0
+      - path: BloodElfFemale/ArmRingRight
+        weight: 0
+      - path: BloodElfFemale/Bow
+        weight: 0
+      - path: BloodElfFemale/BraHolder
+        weight: 0
+      - path: BloodElfFemale/BraLeft
+        weight: 0
+      - path: BloodElfFemale/BraRight
+        weight: 0
+      - path: BloodElfFemale/gauntletsLeft
+        weight: 0
+      - path: BloodElfFemale/gauntletsRight
+        weight: 0
+      - path: BloodElfFemale/hair
+        weight: 0
+      - path: BloodElfFemale/HandLeft
+        weight: 0
+      - path: BloodElfFemale/HandRight
+        weight: 0
+      - path: BloodElfFemale/Head
+        weight: 0
+      - path: BloodElfFemale/mainBody
+        weight: 0
+      - path: BloodElfFemale/PelvisArmorFront
+        weight: 0
+      - path: BloodElfFemale/PelvisArmorLeft
+        weight: 0
+      - path: BloodElfFemale/PelvisArmorRight
+        weight: 0
+      - path: BloodElfFemale/quiver
+        weight: 0
+      - path: BloodElfFemale/quiverBelt
+        weight: 0
+      - path: BloodElfFemale/Robe
+        weight: 0
+      - path: BloodElfFemale/RobeFront
+        weight: 0
+      - path: BloodElfFemale/shoesLeft
+        weight: 0
+      - path: BloodElfFemale/shoesRight
+        weight: 0
+      - path: pivot
+        weight: 1
+      - path: pivot/body
+        weight: 1
+      - path: pivot/body/joint3
+        weight: 1
+      - path: pivot/body/joint3/chest
+        weight: 1
+      - path: pivot/body/joint3/chest/armLeft
+        weight: 1
+      - path: pivot/body/joint3/chest/armLeft/frontArmLeft
+        weight: 1
+      - path: pivot/body/joint3/chest/armLeft/frontArmLeft/handLeft
+        weight: 1
+      - path: pivot/body/joint3/chest/armLeft/frontArmLeft/handLeft/fingerLeft
+        weight: 0
+      - path: pivot/body/joint3/chest/armLeft/frontArmLeft/handLeft/fingerLeft/joint22
+        weight: 0
+      - path: pivot/body/joint3/chest/armLeft/frontArmLeft/handLeft/joint23
+        weight: 0
+      - path: pivot/body/joint3/chest/armLeft/frontArmLeft/handLeft/joint23/joint24
+        weight: 0
+      - path: pivot/body/joint3/chest/ArmRight
+        weight: 1
+      - path: pivot/body/joint3/chest/ArmRight/FrontArmRight
+        weight: 1
+      - path: pivot/body/joint3/chest/ArmRight/FrontArmRight/handRight
+        weight: 1
+      - path: pivot/body/joint3/chest/ArmRight/FrontArmRight/handRight/fingerRight
+        weight: 0
+      - path: pivot/body/joint3/chest/ArmRight/FrontArmRight/handRight/fingerRight/joint29
+        weight: 0
+      - path: pivot/body/joint3/chest/ArmRight/FrontArmRight/handRight/joint30
+        weight: 0
+      - path: pivot/body/joint3/chest/ArmRight/FrontArmRight/handRight/joint30/joint31
+        weight: 0
+      - path: pivot/body/joint3/chest/arrowBone
+        weight: 0
+      - path: pivot/body/joint3/chest/arrowBone/joint35
+        weight: 0
+      - path: pivot/body/joint3/chest/neck
+        weight: 1
+      - path: pivot/body/joint3/chest/neck/joint6
+        weight: 1
+      - path: pivot/body/joint3/chest/neck/joint6/joint7
+        weight: 0
+      - path: pivot/body/legTopL
+        weight: 1
+      - path: pivot/body/legTopL/legBotL
+        weight: 1
+      - path: pivot/body/legTopL/legBotL/footTopL
+        weight: 1
+      - path: pivot/body/legTopL/legBotL/footTopL/footBotL
+        weight: 0
+      - path: pivot/body/legTopL/legBotL/footTopL/footBotL/joint12
+        weight: 0
+      - path: pivot/body/legTopR
+        weight: 1
+      - path: pivot/body/legTopR/legBotR
+        weight: 1
+      - path: pivot/body/legTopR/legBotR/footTopR
+        weight: 1
+      - path: pivot/body/legTopR/legBotR/footTopR/footBotR
+        weight: 0
+      - path: pivot/body/legTopR/legBotR/footTopR/footBotR/joint17
+        weight: 0
+      - path: pivot/body/robePartBone
+        weight: 0
+      - path: pivot/body/robePartBone/joint33
+        weight: 0
+      - path: singleArrow
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: pivot
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: legTopL
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: legTopR
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: legBotL
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: legBotR
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: footTopL
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: footTopR
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint3
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint6
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: armLeft
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ArmRight
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: frontArmLeft
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FrontArmRight
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: handLeft
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: handRight
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: BloodElfFemaleAnimation(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BloodElfFemale
+      position: {x: 0, y: .472829401, z: .254865229}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: .135725632, y: .135725632, z: .135725632}
+      transformModified: 1
+    - name: ArmRingLeft
+      position: {x: 1.95369828, y: 0, z: 8.52651264e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ArmRingRight
+      position: {x: 1.95369828, y: 0, z: 8.52651264e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bow
+      position: {x: 1.85807061, y: .511054158, z: -1.30079603}
+      rotation: {x: -.396846145, y: -.550832689, z: .595727921, w: .429190785}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BraHolder
+      position: {x: 1.95369828, y: 0, z: 8.52651264e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BraLeft
+      position: {x: 1.95369828, y: 0, z: 8.52651264e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BraRight
+      position: {x: 1.95369828, y: 0, z: 8.52651264e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: gauntletsLeft
+      position: {x: 1.95369828, y: 0, z: 8.52651264e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: gauntletsRight
+      position: {x: 1.95369828, y: 0, z: 8.52651264e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair
+      position: {x: 1.95369828, y: 0, z: 8.52651264e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HandLeft
+      position: {x: 1.95369828, y: 0, z: 8.52651264e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HandRight
+      position: {x: 1.95369828, y: 0, z: 8.52651264e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Head
+      position: {x: 1.95369828, y: 0, z: -.00610345881}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mainBody
+      position: {x: 1.95369828, y: 0, z: 8.52651264e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: PelvisArmorFront
+      position: {x: 1.95369828, y: 0, z: 8.52651264e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: PelvisArmorLeft
+      position: {x: 1.95369828, y: 0, z: 8.52651264e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: PelvisArmorRight
+      position: {x: 1.95369828, y: 0, z: 8.52651264e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: quiver
+      position: {x: -0, y: -3.48371482, z: -1.87779737}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 7.367805, y: 7.367805, z: 7.367805}
+      transformModified: 1
+    - name: quiverBelt
+      position: {x: 1.95369828, y: 0, z: 8.52651264e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Robe
+      position: {x: 1.95369828, y: 0, z: 8.52651264e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RobeFront
+      position: {x: 1.95369828, y: 0, z: 8.52651264e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: shoesLeft
+      position: {x: 1.95369828, y: 0, z: 8.52651264e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: shoesRight
+      position: {x: 1.95369828, y: 0, z: 8.52651264e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: singleArrow
+      position: {x: .0250690281, y: .541877449, z: -.0695559084}
+      rotation: {x: .0548599772, y: .0220088791, z: -.178820327, w: .98210454}
+      scale: {x: .99999994, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: pivot
+      position: {x: 0, y: .219999999, z: 0}
+      rotation: {x: 0, y: 0, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: body
+      position: {x: -.0899999961, y: 0, z: 0}
+      rotation: {x: -.705327868, y: .0501261055, z: .0501261055, w: .705327868}
+      scale: {x: 1, y: 1.00000048, z: 1}
+      transformModified: 1
+    - name: joint3
+      position: {x: -.0707106739, y: 0, z: 0}
+      rotation: {x: .705327928, y: -.0501260683, z: -.0501260683, w: .705327928}
+      scale: {x: 1, y: .999999762, z: .999999762}
+      transformModified: 1
+    - name: chest
+      position: {x: -.099999994, y: 2.33816331e-17, z: -.00999999978}
+      rotation: {x: 0, y: -.0470874906, z: 0, w: .998890817}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: neck
+      position: {x: -.101437956, y: 2.26711363e-17, z: -.010504269}
+      rotation: {x: 9.13623925e-16, y: .0470874198, z: -2.59530035e-17, w: .998890817}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: joint6
+      position: {x: -.0387074947, y: 1.22305064e-17, z: .00794441346}
+      rotation: {x: -.497002482, y: .502979696, z: .502979696, w: .497002512}
+      scale: {x: .999999821, y: .999999583, z: .999999762}
+      transformModified: 1
+    - name: joint7
+      position: {x: -.0786652192, y: -1.3322676e-17, z: 2.23190349e-18}
+      rotation: {x: .155849725, y: -.689717948, z: .155849725, w: .689717948}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arrowBone
+      position: {x: -.0852894634, y: .0299999993, z: -.052208297}
+      rotation: {x: 3.72528897e-09, y: -2.23517347e-08, z: -.181982681, w: .983301759}
+      scale: {x: .999999762, y: 1.00000048, z: .999999821}
+      transformModified: 1
+    - name: joint35
+      position: {x: .127542108, y: -1.64628612e-17, z: -.0321404636}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: armLeft
+      position: {x: -.0796452388, y: -.0799999982, z: .00752563355}
+      rotation: {x: .054390233, y: .0164520033, z: .68494159, w: .726378739}
+      scale: {x: 1.00000012, y: 1, z: .999999821}
+      transformModified: 1
+    - name: frontArmLeft
+      position: {x: -.0911043361, y: 0, z: 0}
+      rotation: {x: -.00506683812, y: .0654408261, z: .041008383, w: .997000575}
+      scale: {x: 1.00000036, y: 1, z: .999999821}
+      transformModified: 1
+    - name: handLeft
+      position: {x: -.100498751, y: 0, z: 0}
+      rotation: {x: -.00490858126, y: -.0495712757, z: .0984151438, w: .993897915}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: fingerLeft
+      position: {x: -.0509901941, y: 1.1883417e-16, z: -9.35716635e-18}
+      rotation: {x: .0389579907, y: .115805998, z: .125827283, w: .984499216}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: joint22
+      position: {x: -.0458257571, y: 1.05471186e-17, z: 1.11022296e-17}
+      rotation: {x: .0251802374, y: -.128240913, z: -.843248725, w: .521394134}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint23
+      position: {x: -.0333397426, y: -.0137281297, z: .0399999991}
+      rotation: {x: .0850161389, y: .296098858, z: .258174181, w: .915665865}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: joint24
+      position: {x: -.0282842703, y: -7.1609383e-17, z: -1.55431224e-17}
+      rotation: {x: -.0377087183, y: -.380821079, z: .0910368934, w: .919383347}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ArmRight
+      position: {x: -.0796452388, y: .0799999982, z: .00752563355}
+      rotation: {x: .684941411, y: .726378977, z: -.0543904118, w: -.0164518896}
+      scale: {x: 1.00000012, y: 1, z: .999999523}
+      transformModified: 1
+    - name: FrontArmRight
+      position: {x: .0911043361, y: 9.23705523e-16, z: -2.99760195e-17}
+      rotation: {x: -.00506693311, y: .0654408708, z: .0410086066, w: .997000635}
+      scale: {x: 1.00000036, y: 1.0000006, z: 1.00000036}
+      transformModified: 1
+    - name: handRight
+      position: {x: .100498751, y: 0, z: 0}
+      rotation: {x: -.004908612, y: -.0495712496, z: .0984151587, w: .993897915}
+      scale: {x: .999999881, y: .999999702, z: .999999762}
+      transformModified: 1
+    - name: fingerRight
+      position: {x: .0509901941, y: 1.91846525e-15, z: 2.82557386e-17}
+      rotation: {x: .0389579982, y: .115806006, z: .125827089, w: .984499335}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: joint29
+      position: {x: .0458257571, y: 1.70530253e-15, z: -1.68753898e-16}
+      rotation: {x: .0251802374, y: -.128240913, z: -.843248725, w: .521394134}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint30
+      position: {x: .0333397426, y: .0137281297, z: -.0399999991}
+      rotation: {x: .0850161836, y: .296098858, z: .258174092, w: .915665865}
+      scale: {x: 1.00000012, y: 1.0000006, z: 1.00000012}
+      transformModified: 1
+    - name: joint31
+      position: {x: .0282842983, y: -6.07616641e-07, z: 2.11077179e-07}
+      rotation: {x: -.0377087183, y: -.380821079, z: .0910368934, w: .919383347}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: legTopL
+      position: {x: -.0197989885, y: .00282842712, z: -.049999997}
+      rotation: {x: .0389877521, y: -.492335677, z: .850050271, w: .183030292}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: legBotL
+      position: {x: -.151657507, y: 0, z: 0}
+      rotation: {x: -.814968348, y: -.305081308, z: .0179538447, w: .492371589}
+      scale: {x: .999999702, y: .999999583, z: .999999881}
+      transformModified: 1
+    - name: footTopL
+      position: {x: -.158113882, y: 0, z: 0}
+      rotation: {x: .68949455, y: .165890291, z: .103554465, w: .697390974}
+      scale: {x: 1.00000036, y: 1.00000012, z: .999999762}
+      transformModified: 1
+    - name: footBotL
+      position: {x: -.0299999993, y: 7.66951679e-19, z: 0}
+      rotation: {x: .5, y: .5, z: -.5, w: .5}
+      scale: {x: 1.00000012, y: .999999762, z: .999999881}
+      transformModified: 1
+    - name: joint12
+      position: {x: -.0599999987, y: 1.3322676e-17, z: 2.95822833e-33}
+      rotation: {x: .5, y: -.5, z: -.5, w: .5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: legTopR
+      position: {x: -.0197989885, y: .00282842712, z: .049999997}
+      rotation: {x: .492335707, y: .0389877893, z: .183030292, w: -.850050211}
+      scale: {x: 1.00000012, y: .999999523, z: .999999762}
+      transformModified: 1
+    - name: legBotR
+      position: {x: .151657507, y: 0, z: 0}
+      rotation: {x: -.814968228, y: -.305081218, z: .017953841, w: .492371619}
+      scale: {x: 1, y: .999999404, z: 1.00000024}
+      transformModified: 1
+    - name: footTopR
+      position: {x: .158113882, y: 0, z: 0}
+      rotation: {x: .774915934, y: .12814866, z: -.158687592, w: -.598248661}
+      scale: {x: .99999994, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: footBotR
+      position: {x: .0299999993, y: 0, z: 0}
+      rotation: {x: .50000006, y: .50000006, z: -.49999994, w: .49999994}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: joint17
+      position: {x: .0599999987, y: 2.10942372e-17, z: 1.9007017e-15}
+      rotation: {x: .5, y: -.5, z: -.5, w: .5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: robePartBone
+      position: {x: -.0197989885, y: -.0678822473, z: 1.30339987e-16}
+      rotation: {x: -.0397286266, y: -.999210596, z: 0, w: 0}
+      scale: {x: 1, y: 1.00000012, z: .999999642}
+      transformModified: 1
+    - name: joint33
+      position: {x: -.160312191, y: 1.50990333e-16, z: -1.23671087e-17}
+      rotation: {x: .0397286676, y: .999210536, z: 6.36166808e-17, w: -5.87513236e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 

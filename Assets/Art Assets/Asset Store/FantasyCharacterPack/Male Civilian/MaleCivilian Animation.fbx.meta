@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 1cf1a36c185417041a995e815c9612e7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ArmLeft
+    100002: ArmRight
+    100004: body
+    100006: body 1
+    100008: Chest
+    100010: footBotL
+    100012: footBotR
+    100014: footTopL
+    100016: footTopR
+    100018: FrontArmLeft
+    100020: FrontArmRight
+    100022: gloves
+    100024: hair
+    100026: HandLeft
+    100028: HandRight
+    100030: Head
+    100032: head
+    100034: joint12
+    100036: joint17
+    100038: joint21
+    100040: joint22
+    100042: joint23
+    100044: joint24
+    100046: joint28
+    100048: joint29
+    100050: joint3
+    100052: joint30
+    100054: joint31
+    100056: joint7
+    100058: leg
+    100060: legBotL
+    100062: legBotR
+    100064: legTopL
+    100066: legTopR
+    100068: //RootNode
+    100070: mantle
+    100072: Neck
+    100074: pivot
+    100076: shoes
+    400000: ArmLeft
+    400002: ArmRight
+    400004: body
+    400006: body 1
+    400008: Chest
+    400010: footBotL
+    400012: footBotR
+    400014: footTopL
+    400016: footTopR
+    400018: FrontArmLeft
+    400020: FrontArmRight
+    400022: gloves
+    400024: hair
+    400026: HandLeft
+    400028: HandRight
+    400030: Head
+    400032: head
+    400034: joint12
+    400036: joint17
+    400038: joint21
+    400040: joint22
+    400042: joint23
+    400044: joint24
+    400046: joint28
+    400048: joint29
+    400050: joint3
+    400052: joint30
+    400054: joint31
+    400056: joint7
+    400058: leg
+    400060: legBotL
+    400062: legBotR
+    400064: legTopL
+    400066: legTopR
+    400068: //RootNode
+    400070: mantle
+    400072: Neck
+    400074: pivot
+    400076: shoes
+    4300000: hair
+    4300002: gloves
+    4300004: leg
+    4300006: mantle
+    4300008: shoes
+    4300010: head
+    4300012: body
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: body
+    13700002: gloves
+    13700004: hair
+    13700006: head
+    13700008: leg
+    13700010: mantle
+    13700012: shoes
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: a92001928525a2f4dbb53f9faf1f6b80
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ArmLeft
+    100002: ArmRight
+    100004: body
+    100006: body 1
+    100008: Chest
+    100010: //RootNode
+    100012: CivilianFemale
+    100014: Cloth
+    100016: footBotL
+    100018: footBotR
+    100020: footTopL
+    100022: footTopR
+    100024: FrontArmLeft
+    100026: frontArmRight
+    100028: gauntletsLeft
+    100030: gauntletsRight
+    100032: hair
+    100034: HandLeft
+    100036: handLeft
+    100038: HandRight
+    100040: handRight
+    100042: Head
+    100044: head
+    100046: joint12
+    100048: joint17
+    100050: joint21
+    100052: joint22
+    100054: joint23
+    100056: joint24
+    100058: joint28
+    100060: joint29
+    100062: joint3
+    100064: joint30
+    100066: joint31
+    100068: joint7
+    100070: leg
+    100072: legBotL
+    100074: legBotR
+    100076: legTopL
+    100078: legTopR
+    100080: neck
+    100082: pivot
+    100084: shoesLeft
+    100086: shoesRight
+    400000: ArmLeft
+    400002: ArmRight
+    400004: body
+    400006: body 1
+    400008: Chest
+    400010: //RootNode
+    400012: CivilianFemale
+    400014: Cloth
+    400016: footBotL
+    400018: footBotR
+    400020: footTopL
+    400022: footTopR
+    400024: FrontArmLeft
+    400026: frontArmRight
+    400028: gauntletsLeft
+    400030: gauntletsRight
+    400032: hair
+    400034: HandLeft
+    400036: handLeft
+    400038: HandRight
+    400040: handRight
+    400042: Head
+    400044: head
+    400046: joint12
+    400048: joint17
+    400050: joint21
+    400052: joint22
+    400054: joint23
+    400056: joint24
+    400058: joint28
+    400060: joint29
+    400062: joint3
+    400064: joint30
+    400066: joint31
+    400068: joint7
+    400070: leg
+    400072: legBotL
+    400074: legBotR
+    400076: legTopL
+    400078: legTopR
+    400080: neck
+    400082: pivot
+    400084: shoesLeft
+    400086: shoesRight
+    4300000: head
+    4300002: hair
+    4300004: gauntletsRight
+    4300006: gauntletsLeft
+    4300008: Cloth
+    4300010: HandRight
+    4300012: HandLeft
+    4300014: body
+    4300016: leg
+    4300018: shoesRight
+    4300020: shoesLeft
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: body
+    13700002: Cloth
+    13700004: gauntletsLeft
+    13700006: gauntletsRight
+    13700008: hair
+    13700010: HandLeft
+    13700012: HandRight
+    13700014: head
+    13700016: leg
+    13700018: shoesLeft
+    13700020: shoesRight
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

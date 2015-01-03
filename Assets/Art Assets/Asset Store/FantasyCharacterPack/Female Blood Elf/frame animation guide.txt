@@ -1,0 +1,15 @@
+frame animation guide :
+
+idle normal 1  - 20
+idle 2      21 - 40
+walk        41 - 60
+run normal  61 - 80
+run attack  81 -100
+jump1       101-120
+jump2       121-140
+attack1     141-160
+attack2     161-180
+get hit     181-200
+die         201-220
+
+bind pose   221

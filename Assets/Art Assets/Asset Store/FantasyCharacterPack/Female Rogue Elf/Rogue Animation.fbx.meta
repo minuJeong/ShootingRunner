@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 761fee32db5c18245bcb575a477450da
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: arm
+    100002: ArmLeft
+    100004: ArmRight
+    100006: belt
+    100008: body
+    100010: body 1
+    100012: bodyArmor
+    100014: bra
+    100016: chest
+    100018: footBotL
+    100020: footBotR
+    100022: footTopL
+    100024: footTopR
+    100026: FrontArmLeft
+    100028: FrontArmRight
+    100030: HandLeft
+    100032: HandRight
+    100034: head
+    100036: helm
+    100038: joint12
+    100040: joint17
+    100042: joint21
+    100044: joint22
+    100046: joint23
+    100048: joint24
+    100050: joint28
+    100052: joint29
+    100054: joint3
+    100056: joint30
+    100058: joint31
+    100060: joint6
+    100062: joint7
+    100064: leg
+    100066: legArmor
+    100068: legBotL
+    100070: legBotR
+    100072: legTopL
+    100074: legTopR
+    100076: neck
+    100078: pCube3
+    100080: pivot
+    100082: pockets
+    100084: //RootNode
+    100086: shoes
+    100088: weapons1:pCube3
+    400000: arm
+    400002: ArmLeft
+    400004: ArmRight
+    400006: belt
+    400008: body
+    400010: body 1
+    400012: bodyArmor
+    400014: bra
+    400016: chest
+    400018: footBotL
+    400020: footBotR
+    400022: footTopL
+    400024: footTopR
+    400026: FrontArmLeft
+    400028: FrontArmRight
+    400030: HandLeft
+    400032: HandRight
+    400034: head
+    400036: helm
+    400038: joint12
+    400040: joint17
+    400042: joint21
+    400044: joint22
+    400046: joint23
+    400048: joint24
+    400050: joint28
+    400052: joint29
+    400054: joint3
+    400056: joint30
+    400058: joint31
+    400060: joint6
+    400062: joint7
+    400064: leg
+    400066: legArmor
+    400068: legBotL
+    400070: legBotR
+    400072: legTopL
+    400074: legTopR
+    400076: neck
+    400078: pCube3
+    400080: pivot
+    400082: pockets
+    400084: //RootNode
+    400086: shoes
+    400088: weapons1:pCube3
+    4300000: shoes
+    4300002: pockets
+    4300004: belt
+    4300006: helm
+    4300008: bodyArmor
+    4300010: legArmor
+    4300012: head
+    4300014: body
+    4300016: leg
+    4300018: bra
+    4300020: arm
+    4300022: weapons1:pCube3
+    4300024: pCube3
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: arm
+    13700002: belt
+    13700004: body
+    13700006: bodyArmor
+    13700008: bra
+    13700010: head
+    13700012: helm
+    13700014: leg
+    13700016: legArmor
+    13700018: pCube3
+    13700020: pockets
+    13700022: shoes
+    13700024: weapons1:pCube3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,108 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.sln
+*.csproj
+Albatross Prototype 001/Assets/Mixamo.meta
+Albatross Prototype 001/Assets/UMA.meta
+Albatross Prototype 001/Assets/UMA/Example.meta
+Albatross Prototype 001/Assets/UMA/Example/Animators.meta
+Albatross Prototype 001/Assets/UMA/Example/Prefabs.meta
+Albatross Prototype 001/Assets/UMA/Example/RandomSets.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/DNA.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Overlays.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Overlays/Female.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Overlays/Female/FemaleEyebrow01.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Overlays/Female/FemaleLongHair01.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Overlays/Female/FemaleShirt01Overlay.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Overlays/Female/FemaleShirt02Overlay.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Overlays/Female/FemaleShortHair01.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Overlays/Female/FemaleUnderwearOverlay1.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Overlays/Male.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Overlays/Male/MaleBeard02.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Overlays/Male/MaleEyebrow01.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Overlays/Male/MaleJeans01.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Overlays/Male/MaleSwapedHead.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Overlays/Male/MaleSwapedHead/UMA_Human_Male_Head_PigNose.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Overlays/Male/MaleUnderwearOverlay01.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Overlays/Shared.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Overlays/Shared/ElvenEars.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Overlays/Shared/EyeOverlay.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Overlays/Shared/EyeOverlay/EyeOverlay.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Overlays/Shared/InnerMouth.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Races.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Female.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Female/FemaleEyelash.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Female/FemaleShortHair01.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Female/FemaleSwapedHead.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Female/FemaleSwapedHead/UMA_Human_Female_Head_Ears.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Female/FemaleSwapedHead/UMA_Human_Female_Head_ElvenEars.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Female/FemaleSwapedHead/UMA_Human_Female_Head_Eyes.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Female/FemaleSwapedHead/UMA_Human_Female_Head_Nose.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Female/UMA_Human_Female_Eyes.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Female/UMA_Human_Female_Face.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Female/UMA_Human_Female_InnerMouth.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Female/UMA_Human_Female_Legs.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Female/UMA_Human_Female_Torso.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Male.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Male/MaleSwapedHead.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Male/MaleSwapedHead/UMA_Human_Male_Head_ElvenEars.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Male/MaleSwapedHead/UMA_Human_Male_Head_Eyes.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Male/MaleSwapedHead/UMA_Human_Male_Head_Mouth.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Male/MaleSwapedHead/UMA_Human_Male_Head_Nose.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Male/UMA_Human_Male_Eyes.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Male/UMA_Human_Male_Face.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Male/UMA_Human_Male_Feet.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Male/UMA_Human_Male_Hands.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Male/UMA_Human_Male_InnerMouth.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Male/UMA_Human_Male_Legs.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/Slots/Male/UMA_Human_Male_Torso.meta
+Albatross Prototype 001/Assets/UMA/UMA_Assets/TPoses.meta
+Albatross Prototype 001/Assets/UMA/UMA_Generated.meta
+Albatross Prototype 001/Assets/UMA/UMA_Generated/Characters.meta
+Albatross Prototype 001/Assets/UMA/UMA_Project.meta
+Albatross Prototype 001/Assets/UMA/UMA_Project/Models.meta
+Albatross Prototype 001/Assets/UMA/UMA_Project/Models/Female.meta
+Albatross Prototype 001/Assets/UMA/UMA_Project/Models/Female/Materials.meta
+Albatross Prototype 001/Assets/FT_CartoonEffect_vol01.meta
+Albatross Prototype 001/Assets/FX Quest.meta
+Albatross Prototype 001/Assets/FX Quest/Editor.meta
+Albatross Prototype 001/Assets/FX Quest/_Prefabs.meta
+Albatross Prototype 001/Assets/FX Quest/_Prefabs/Rescale.meta
+
+# =============== #
+# Sublime generated #
+# =============== #
+*.sublime-project
+*.sublime-workspace
+cutout.mat

@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 98777d1baeea8e745b95502a6f862ad2
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ArmLeft
+    100002: ArmRight
+    100004: body
+    100006: body 1
+    100008: chest
+    100010: finger1Left
+    100012: finger1Right
+    100014: finger2Left
+    100016: finger2Right
+    100018: footBotL
+    100020: footBotR
+    100022: footTopL
+    100024: footTopR
+    100026: FrontArmLeft
+    100028: FrontArmRight
+    100030: Group6
+    100032: HandLeft
+    100034: HandRight
+    100036: head
+    100038: head 1
+    100040: joint12
+    100042: joint17
+    100044: joint22
+    100046: joint24
+    100048: joint29
+    100050: joint31
+    100052: joint36
+    100054: joint7
+    100056: legBotL
+    100058: legBotR
+    100060: legTopL
+    100062: legTopR
+    100064: neck
+    100066: Pivot
+    100068: shoulder
+    100070: tailLowerPart
+    100072: tailMiddlePart1
+    100074: tailMiddlePart2
+    100076: tailTopPart
+    100078: //RootNode
+    400000: ArmLeft
+    400002: ArmRight
+    400004: body
+    400006: body 1
+    400008: chest
+    400010: finger1Left
+    400012: finger1Right
+    400014: finger2Left
+    400016: finger2Right
+    400018: footBotL
+    400020: footBotR
+    400022: footTopL
+    400024: footTopR
+    400026: FrontArmLeft
+    400028: FrontArmRight
+    400030: Group6
+    400032: HandLeft
+    400034: HandRight
+    400036: head
+    400038: head 1
+    400040: joint12
+    400042: joint17
+    400044: joint22
+    400046: joint24
+    400048: joint29
+    400050: joint31
+    400052: joint36
+    400054: joint7
+    400056: legBotL
+    400058: legBotR
+    400060: legTopL
+    400062: legTopR
+    400064: neck
+    400066: Pivot
+    400068: shoulder
+    400070: tailLowerPart
+    400072: tailMiddlePart1
+    400074: tailMiddlePart2
+    400076: tailTopPart
+    400078: //RootNode
+    4300000: body
+    4300002: head
+    4300004: Group6
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: body
+    13700002: Group6
+    13700004: head
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

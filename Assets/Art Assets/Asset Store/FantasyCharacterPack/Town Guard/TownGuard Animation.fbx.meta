@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 38ec32558396b5a4e81b3701b588c75b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ArmLeft
+    100002: ArmRight
+    100004: body
+    100006: body 1
+    100008: chest
+    100010: footBotL
+    100012: footBotR
+    100014: footTopL
+    100016: footTopR
+    100018: FrontArmLeft
+    100020: FrontArmRight
+    100022: gloves
+    100024: HandLeft
+    100026: HandRight
+    100028: head
+    100030: helm
+    100032: joint12
+    100034: joint17
+    100036: joint21
+    100038: joint22
+    100040: joint23
+    100042: joint24
+    100044: joint28
+    100046: joint29
+    100048: joint3
+    100050: joint30
+    100052: joint31
+    100054: joint6
+    100056: joint7
+    100058: legBotL
+    100060: legBotR
+    100062: legTopL
+    100064: legTopR
+    100066: mantle
+    100068: neck
+    100070: pants
+    100072: pivot
+    100074: shoes
+    100076: shoulderArmor
+    100078: //RootNode
+    100080: weaponShield
+    100082: weaponSword1
+    400000: ArmLeft
+    400002: ArmRight
+    400004: body
+    400006: body 1
+    400008: chest
+    400010: footBotL
+    400012: footBotR
+    400014: footTopL
+    400016: footTopR
+    400018: FrontArmLeft
+    400020: FrontArmRight
+    400022: gloves
+    400024: HandLeft
+    400026: HandRight
+    400028: head
+    400030: helm
+    400032: joint12
+    400034: joint17
+    400036: joint21
+    400038: joint22
+    400040: joint23
+    400042: joint24
+    400044: joint28
+    400046: joint29
+    400048: joint3
+    400050: joint30
+    400052: joint31
+    400054: joint6
+    400056: joint7
+    400058: legBotL
+    400060: legBotR
+    400062: legTopL
+    400064: legTopR
+    400066: mantle
+    400068: neck
+    400070: pants
+    400072: pivot
+    400074: shoes
+    400076: shoulderArmor
+    400078: //RootNode
+    400080: weaponShield
+    400082: weaponSword1
+    4300000: shoes
+    4300002: mantle
+    4300004: helm
+    4300006: shoulderArmor
+    4300008: gloves
+    4300010: pants
+    4300012: weaponShield
+    4300014: weaponSword1
+    4300016: head
+    4300018: body
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: body
+    13700002: gloves
+    13700004: head
+    13700006: helm
+    13700008: mantle
+    13700010: pants
+    13700012: shoes
+    13700014: shoulderArmor
+    13700016: weaponShield
+    13700018: weaponSword1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
