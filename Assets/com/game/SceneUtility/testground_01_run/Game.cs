@@ -6,7 +6,7 @@ namespace testground_01_run
 	public class Game : MonoBehaviour
 	{
 
-		private GameObject _playerPawn = null;
+//		private GameObject _playerPawn = null;
 
 		void Awake () {
 			Physics.gravity = new Vector3 (0, -10, 0);
@@ -15,7 +15,7 @@ namespace testground_01_run
 		// Use this for initialization
 		void Start ()
 		{
-			_playerPawn = GameObject.Find ("PlayerPawn");
+//			_playerPawn = GameObject.Find ("PlayerPawn");
 		}
 	
 		// Update is called once per frame
